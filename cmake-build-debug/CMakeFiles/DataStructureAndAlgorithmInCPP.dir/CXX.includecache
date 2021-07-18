@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Repository/CPP/DataStructureAndAlgorithmInCPP/KnuthMorrisPratt.cpp
+KnuthMorrisPratt.h
+D:/Repository/CPP/DataStructureAndAlgorithmInCPP/KnuthMorrisPratt.h
+iostream
+-
+algorithm
+-
+
+D:/Repository/CPP/DataStructureAndAlgorithmInCPP/KnuthMorrisPratt.h
+vector
+-
+string
+-
+
