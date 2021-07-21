@@ -60,99 +60,162 @@ include CMakeFiles\DataStructureAndAlgorithmInCPP.dir\progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.obj: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.obj: ..\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/DataStructureAndAlgorithmInCPP.dir/main.cpp.obj"
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.obj: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.obj: ..\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/main.cpp.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.obj /FdCMakeFiles\DataStructureAndAlgorithmInCPP.dir\ /FS -c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.obj /FdCMakeFiles\DataStructureAndAlgorithmInCPP.dir\ /FS -c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\main.cpp
 <<
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructureAndAlgorithmInCPP.dir/main.cpp.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repository\CPP\DataStructureAndAlgorithmInCPP\main.cpp
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/main.cpp.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\main.cpp
 <<
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructureAndAlgorithmInCPP.dir/main.cpp.s"
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/main.cpp.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.s /c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\main.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.s /c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\main.cpp
 <<
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.obj: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.obj: ..\BruteForceSubstringSearch.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DataStructureAndAlgorithmInCPP.dir/BruteForceSubstringSearch.cpp.obj"
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.obj: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.obj: ..\src\Tree\BiTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/BiTree.cpp.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.obj /FdCMakeFiles\DataStructureAndAlgorithmInCPP.dir\ /FS -c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\BruteForceSubstringSearch.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.obj /FdCMakeFiles\DataStructureAndAlgorithmInCPP.dir\ /FS -c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\Tree\BiTree.cpp
 <<
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructureAndAlgorithmInCPP.dir/BruteForceSubstringSearch.cpp.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repository\CPP\DataStructureAndAlgorithmInCPP\BruteForceSubstringSearch.cpp
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/BiTree.cpp.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\Tree\BiTree.cpp
 <<
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructureAndAlgorithmInCPP.dir/BruteForceSubstringSearch.cpp.s"
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/BiTree.cpp.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.s /c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\BruteForceSubstringSearch.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.s /c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\Tree\BiTree.cpp
 <<
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.obj: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.obj: ..\SubstringSearchTest.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/DataStructureAndAlgorithmInCPP.dir/SubstringSearchTest.cpp.obj"
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.obj: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.obj: ..\src\Tree\BinaryTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/BinaryTree.cpp.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.obj /FdCMakeFiles\DataStructureAndAlgorithmInCPP.dir\ /FS -c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\SubstringSearchTest.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.obj /FdCMakeFiles\DataStructureAndAlgorithmInCPP.dir\ /FS -c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\Tree\BinaryTree.cpp
 <<
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructureAndAlgorithmInCPP.dir/SubstringSearchTest.cpp.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repository\CPP\DataStructureAndAlgorithmInCPP\SubstringSearchTest.cpp
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/BinaryTree.cpp.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\Tree\BinaryTree.cpp
 <<
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructureAndAlgorithmInCPP.dir/SubstringSearchTest.cpp.s"
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/BinaryTree.cpp.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.s /c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\SubstringSearchTest.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.s /c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\Tree\BinaryTree.cpp
 <<
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.obj: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.obj: ..\KnuthMorrisPratt.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/DataStructureAndAlgorithmInCPP.dir/KnuthMorrisPratt.cpp.obj"
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.obj: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.obj: ..\src\Tree\ThreadedBinaryTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/ThreadedBinaryTree.cpp.obj"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.obj /FdCMakeFiles\DataStructureAndAlgorithmInCPP.dir\ /FS -c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\KnuthMorrisPratt.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.obj /FdCMakeFiles\DataStructureAndAlgorithmInCPP.dir\ /FS -c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\Tree\ThreadedBinaryTree.cpp
 <<
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructureAndAlgorithmInCPP.dir/KnuthMorrisPratt.cpp.i"
-	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repository\CPP\DataStructureAndAlgorithmInCPP\KnuthMorrisPratt.cpp
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/ThreadedBinaryTree.cpp.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\Tree\ThreadedBinaryTree.cpp
 <<
 
-CMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructureAndAlgorithmInCPP.dir/KnuthMorrisPratt.cpp.s"
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/ThreadedBinaryTree.cpp.s"
 	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.s /c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\KnuthMorrisPratt.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.s /c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\src\Tree\ThreadedBinaryTree.cpp
+<<
+
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.obj: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.obj: ..\test\ClassTemplateTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/ClassTemplateTest.cpp.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.obj /FdCMakeFiles\DataStructureAndAlgorithmInCPP.dir\ /FS -c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\test\ClassTemplateTest.cpp
+<<
+
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/ClassTemplateTest.cpp.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repository\CPP\DataStructureAndAlgorithmInCPP\test\ClassTemplateTest.cpp
+<<
+
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/ClassTemplateTest.cpp.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.s /c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\test\ClassTemplateTest.cpp
+<<
+
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.obj: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.obj: ..\test\BinaryTreeTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/BinaryTreeTest.cpp.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.obj /FdCMakeFiles\DataStructureAndAlgorithmInCPP.dir\ /FS -c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\test\BinaryTreeTest.cpp
+<<
+
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/BinaryTreeTest.cpp.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repository\CPP\DataStructureAndAlgorithmInCPP\test\BinaryTreeTest.cpp
+<<
+
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/BinaryTreeTest.cpp.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.s /c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\test\BinaryTreeTest.cpp
+<<
+
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.obj: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\flags.make
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.obj: ..\test\ThreadedBinaryTreeTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/ThreadedBinaryTreeTest.cpp.obj"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.obj /FdCMakeFiles\DataStructureAndAlgorithmInCPP.dir\ /FS -c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\test\ThreadedBinaryTreeTest.cpp
+<<
+
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/ThreadedBinaryTreeTest.cpp.i"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe > CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repository\CPP\DataStructureAndAlgorithmInCPP\test\ThreadedBinaryTreeTest.cpp
+<<
+
+CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/ThreadedBinaryTreeTest.cpp.s"
+	C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.s /c D:\Repository\CPP\DataStructureAndAlgorithmInCPP\test\ThreadedBinaryTreeTest.cpp
 <<
 
 # Object files for target DataStructureAndAlgorithmInCPP
 DataStructureAndAlgorithmInCPP_OBJECTS = \
-"CMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.obj" \
-"CMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.obj" \
-"CMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.obj" \
-"CMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.obj"
+"CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.obj" \
+"CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.obj" \
+"CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.obj" \
+"CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.obj" \
+"CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.obj" \
+"CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.obj" \
+"CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.obj"
 
 # External object files for target DataStructureAndAlgorithmInCPP
 DataStructureAndAlgorithmInCPP_EXTERNAL_OBJECTS =
 
-DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.obj
-DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.obj
-DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.obj
-DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.obj
+DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.obj
+DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.obj
+DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.obj
+DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.obj
+DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.obj
+DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.obj
+DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.obj
 DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make
 DataStructureAndAlgorithmInCPP.exe: CMakeFiles\DataStructureAndAlgorithmInCPP.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable DataStructureAndAlgorithmInCPP.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable DataStructureAndAlgorithmInCPP.exe"
 	"D:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\DataStructureAndAlgorithmInCPP.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MIB055~1\2019\COMMUN~1\VC\Tools\MSVC\1429~1.300\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\DataStructureAndAlgorithmInCPP.dir\objects1.rsp @<<
  /out:DataStructureAndAlgorithmInCPP.exe /implib:DataStructureAndAlgorithmInCPP.lib /pdb:D:\Repository\CPP\DataStructureAndAlgorithmInCPP\cmake-build-debug\DataStructureAndAlgorithmInCPP.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

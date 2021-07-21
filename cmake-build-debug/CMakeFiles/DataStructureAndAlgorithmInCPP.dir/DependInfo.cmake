@@ -4,10 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/BruteForceSubstringSearch.cpp" "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithmInCPP.dir/BruteForceSubstringSearch.cpp.obj"
-  "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/KnuthMorrisPratt.cpp" "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithmInCPP.dir/KnuthMorrisPratt.cpp.obj"
-  "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/SubstringSearchTest.cpp" "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithmInCPP.dir/SubstringSearchTest.cpp.obj"
-  "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/main.cpp" "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithmInCPP.dir/main.cpp.obj"
+  "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/BiTree.cpp" "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/BiTree.cpp.obj"
+  "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/BinaryTree.cpp" "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/BinaryTree.cpp.obj"
+  "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/ThreadedBinaryTree.cpp" "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/Tree/ThreadedBinaryTree.cpp.obj"
+  "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/main.cpp" "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithmInCPP.dir/src/main.cpp.obj"
+  "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/BinaryTreeTest.cpp" "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/BinaryTreeTest.cpp.obj"
+  "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/ClassTemplateTest.cpp" "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/ClassTemplateTest.cpp.obj"
+  "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/ThreadedBinaryTreeTest.cpp" "D:/Repository/CPP/DataStructureAndAlgorithmInCPP/cmake-build-debug/CMakeFiles/DataStructureAndAlgorithmInCPP.dir/test/ThreadedBinaryTreeTest.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

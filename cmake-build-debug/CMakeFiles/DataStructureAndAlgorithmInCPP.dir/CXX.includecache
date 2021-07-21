@@ -6,17 +6,23 @@
 
 #IncludeRegexTransform: 
 
-D:/Repository/CPP/DataStructureAndAlgorithmInCPP/KnuthMorrisPratt.cpp
-KnuthMorrisPratt.h
-D:/Repository/CPP/DataStructureAndAlgorithmInCPP/KnuthMorrisPratt.h
+D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/ThreadedBinaryTree.cpp
+cstdio
+-
 iostream
 -
-algorithm
--
+ThreadedBinaryTree.h
+D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/ThreadedBinaryTree.h
 
-D:/Repository/CPP/DataStructureAndAlgorithmInCPP/KnuthMorrisPratt.h
-vector
--
+D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/ThreadedBinaryTree.h
+
+D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/ThreadedBinaryTreeTest.cpp
 string
 -
+ThreadedBinaryTreeTest.h
+D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/ThreadedBinaryTreeTest.h
+../src/Tree/ThreadedBinaryTree.h
+D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/ThreadedBinaryTree.h
+
+D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/ThreadedBinaryTreeTest.h
 

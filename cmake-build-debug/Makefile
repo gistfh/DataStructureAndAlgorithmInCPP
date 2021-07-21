@@ -126,113 +126,194 @@ DataStructureAndAlgorithmInCPP\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build
 .PHONY : DataStructureAndAlgorithmInCPP\fast
 
-BruteForceSubstringSearch.obj: BruteForceSubstringSearch.cpp.obj
+src\Tree\BiTree.obj: src\Tree\BiTree.cpp.obj
 
-.PHONY : BruteForceSubstringSearch.obj
-
-# target to build an object file
-BruteForceSubstringSearch.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.obj
-.PHONY : BruteForceSubstringSearch.cpp.obj
-
-BruteForceSubstringSearch.i: BruteForceSubstringSearch.cpp.i
-
-.PHONY : BruteForceSubstringSearch.i
-
-# target to preprocess a source file
-BruteForceSubstringSearch.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.i
-.PHONY : BruteForceSubstringSearch.cpp.i
-
-BruteForceSubstringSearch.s: BruteForceSubstringSearch.cpp.s
-
-.PHONY : BruteForceSubstringSearch.s
-
-# target to generate assembly for a file
-BruteForceSubstringSearch.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\BruteForceSubstringSearch.cpp.s
-.PHONY : BruteForceSubstringSearch.cpp.s
-
-KnuthMorrisPratt.obj: KnuthMorrisPratt.cpp.obj
-
-.PHONY : KnuthMorrisPratt.obj
+.PHONY : src\Tree\BiTree.obj
 
 # target to build an object file
-KnuthMorrisPratt.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.obj
-.PHONY : KnuthMorrisPratt.cpp.obj
+src\Tree\BiTree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.obj
+.PHONY : src\Tree\BiTree.cpp.obj
 
-KnuthMorrisPratt.i: KnuthMorrisPratt.cpp.i
+src\Tree\BiTree.i: src\Tree\BiTree.cpp.i
 
-.PHONY : KnuthMorrisPratt.i
+.PHONY : src\Tree\BiTree.i
 
 # target to preprocess a source file
-KnuthMorrisPratt.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.i
-.PHONY : KnuthMorrisPratt.cpp.i
+src\Tree\BiTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.i
+.PHONY : src\Tree\BiTree.cpp.i
 
-KnuthMorrisPratt.s: KnuthMorrisPratt.cpp.s
+src\Tree\BiTree.s: src\Tree\BiTree.cpp.s
 
-.PHONY : KnuthMorrisPratt.s
+.PHONY : src\Tree\BiTree.s
 
 # target to generate assembly for a file
-KnuthMorrisPratt.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\KnuthMorrisPratt.cpp.s
-.PHONY : KnuthMorrisPratt.cpp.s
+src\Tree\BiTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BiTree.cpp.s
+.PHONY : src\Tree\BiTree.cpp.s
 
-SubstringSearchTest.obj: SubstringSearchTest.cpp.obj
+src\Tree\BinaryTree.obj: src\Tree\BinaryTree.cpp.obj
 
-.PHONY : SubstringSearchTest.obj
+.PHONY : src\Tree\BinaryTree.obj
 
 # target to build an object file
-SubstringSearchTest.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.obj
-.PHONY : SubstringSearchTest.cpp.obj
+src\Tree\BinaryTree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.obj
+.PHONY : src\Tree\BinaryTree.cpp.obj
 
-SubstringSearchTest.i: SubstringSearchTest.cpp.i
+src\Tree\BinaryTree.i: src\Tree\BinaryTree.cpp.i
 
-.PHONY : SubstringSearchTest.i
+.PHONY : src\Tree\BinaryTree.i
 
 # target to preprocess a source file
-SubstringSearchTest.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.i
-.PHONY : SubstringSearchTest.cpp.i
+src\Tree\BinaryTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.i
+.PHONY : src\Tree\BinaryTree.cpp.i
 
-SubstringSearchTest.s: SubstringSearchTest.cpp.s
+src\Tree\BinaryTree.s: src\Tree\BinaryTree.cpp.s
 
-.PHONY : SubstringSearchTest.s
+.PHONY : src\Tree\BinaryTree.s
 
 # target to generate assembly for a file
-SubstringSearchTest.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\SubstringSearchTest.cpp.s
-.PHONY : SubstringSearchTest.cpp.s
+src\Tree\BinaryTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\BinaryTree.cpp.s
+.PHONY : src\Tree\BinaryTree.cpp.s
 
-main.obj: main.cpp.obj
+src\Tree\ThreadedBinaryTree.obj: src\Tree\ThreadedBinaryTree.cpp.obj
 
-.PHONY : main.obj
+.PHONY : src\Tree\ThreadedBinaryTree.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.obj
-.PHONY : main.cpp.obj
+src\Tree\ThreadedBinaryTree.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.obj
+.PHONY : src\Tree\ThreadedBinaryTree.cpp.obj
 
-main.i: main.cpp.i
+src\Tree\ThreadedBinaryTree.i: src\Tree\ThreadedBinaryTree.cpp.i
 
-.PHONY : main.i
+.PHONY : src\Tree\ThreadedBinaryTree.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.i
-.PHONY : main.cpp.i
+src\Tree\ThreadedBinaryTree.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.i
+.PHONY : src\Tree\ThreadedBinaryTree.cpp.i
 
-main.s: main.cpp.s
+src\Tree\ThreadedBinaryTree.s: src\Tree\ThreadedBinaryTree.cpp.s
 
-.PHONY : main.s
+.PHONY : src\Tree\ThreadedBinaryTree.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\main.cpp.s
-.PHONY : main.cpp.s
+src\Tree\ThreadedBinaryTree.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\Tree\ThreadedBinaryTree.cpp.s
+.PHONY : src\Tree\ThreadedBinaryTree.cpp.s
+
+src\main.obj: src\main.cpp.obj
+
+.PHONY : src\main.obj
+
+# target to build an object file
+src\main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.obj
+.PHONY : src\main.cpp.obj
+
+src\main.i: src\main.cpp.i
+
+.PHONY : src\main.i
+
+# target to preprocess a source file
+src\main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.i
+.PHONY : src\main.cpp.i
+
+src\main.s: src\main.cpp.s
+
+.PHONY : src\main.s
+
+# target to generate assembly for a file
+src\main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\src\main.cpp.s
+.PHONY : src\main.cpp.s
+
+test\BinaryTreeTest.obj: test\BinaryTreeTest.cpp.obj
+
+.PHONY : test\BinaryTreeTest.obj
+
+# target to build an object file
+test\BinaryTreeTest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.obj
+.PHONY : test\BinaryTreeTest.cpp.obj
+
+test\BinaryTreeTest.i: test\BinaryTreeTest.cpp.i
+
+.PHONY : test\BinaryTreeTest.i
+
+# target to preprocess a source file
+test\BinaryTreeTest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.i
+.PHONY : test\BinaryTreeTest.cpp.i
+
+test\BinaryTreeTest.s: test\BinaryTreeTest.cpp.s
+
+.PHONY : test\BinaryTreeTest.s
+
+# target to generate assembly for a file
+test\BinaryTreeTest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\BinaryTreeTest.cpp.s
+.PHONY : test\BinaryTreeTest.cpp.s
+
+test\ClassTemplateTest.obj: test\ClassTemplateTest.cpp.obj
+
+.PHONY : test\ClassTemplateTest.obj
+
+# target to build an object file
+test\ClassTemplateTest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.obj
+.PHONY : test\ClassTemplateTest.cpp.obj
+
+test\ClassTemplateTest.i: test\ClassTemplateTest.cpp.i
+
+.PHONY : test\ClassTemplateTest.i
+
+# target to preprocess a source file
+test\ClassTemplateTest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.i
+.PHONY : test\ClassTemplateTest.cpp.i
+
+test\ClassTemplateTest.s: test\ClassTemplateTest.cpp.s
+
+.PHONY : test\ClassTemplateTest.s
+
+# target to generate assembly for a file
+test\ClassTemplateTest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ClassTemplateTest.cpp.s
+.PHONY : test\ClassTemplateTest.cpp.s
+
+test\ThreadedBinaryTreeTest.obj: test\ThreadedBinaryTreeTest.cpp.obj
+
+.PHONY : test\ThreadedBinaryTreeTest.obj
+
+# target to build an object file
+test\ThreadedBinaryTreeTest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.obj
+.PHONY : test\ThreadedBinaryTreeTest.cpp.obj
+
+test\ThreadedBinaryTreeTest.i: test\ThreadedBinaryTreeTest.cpp.i
+
+.PHONY : test\ThreadedBinaryTreeTest.i
+
+# target to preprocess a source file
+test\ThreadedBinaryTreeTest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.i
+.PHONY : test\ThreadedBinaryTreeTest.cpp.i
+
+test\ThreadedBinaryTreeTest.s: test\ThreadedBinaryTreeTest.cpp.s
+
+.PHONY : test\ThreadedBinaryTreeTest.s
+
+# target to generate assembly for a file
+test\ThreadedBinaryTreeTest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DataStructureAndAlgorithmInCPP.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\DataStructureAndAlgorithmInCPP.dir\test\ThreadedBinaryTreeTest.cpp.s
+.PHONY : test\ThreadedBinaryTreeTest.cpp.s
 
 # Help Target
 help:
@@ -243,18 +324,27 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... DataStructureAndAlgorithmInCPP
-	@echo ... BruteForceSubstringSearch.obj
-	@echo ... BruteForceSubstringSearch.i
-	@echo ... BruteForceSubstringSearch.s
-	@echo ... KnuthMorrisPratt.obj
-	@echo ... KnuthMorrisPratt.i
-	@echo ... KnuthMorrisPratt.s
-	@echo ... SubstringSearchTest.obj
-	@echo ... SubstringSearchTest.i
-	@echo ... SubstringSearchTest.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... src/Tree/BiTree.obj
+	@echo ... src/Tree/BiTree.i
+	@echo ... src/Tree/BiTree.s
+	@echo ... src/Tree/BinaryTree.obj
+	@echo ... src/Tree/BinaryTree.i
+	@echo ... src/Tree/BinaryTree.s
+	@echo ... src/Tree/ThreadedBinaryTree.obj
+	@echo ... src/Tree/ThreadedBinaryTree.i
+	@echo ... src/Tree/ThreadedBinaryTree.s
+	@echo ... src/main.obj
+	@echo ... src/main.i
+	@echo ... src/main.s
+	@echo ... test/BinaryTreeTest.obj
+	@echo ... test/BinaryTreeTest.i
+	@echo ... test/BinaryTreeTest.s
+	@echo ... test/ClassTemplateTest.obj
+	@echo ... test/ClassTemplateTest.i
+	@echo ... test/ClassTemplateTest.s
+	@echo ... test/ThreadedBinaryTreeTest.obj
+	@echo ... test/ThreadedBinaryTreeTest.i
+	@echo ... test/ThreadedBinaryTreeTest.s
 .PHONY : help
 
 

@@ -1,0 +1,16 @@
+//
+// Created by temTeng on 2021/7/20.
+//
+
+#ifndef DATASTRUCTUREANDALGORITHMINCPP_BINARYTREETEST_H
+#define DATASTRUCTUREANDALGORITHMINCPP_BINARYTREETEST_H
+
+
+class BinaryTreeTest {
+public:
+    static void test();
+
+};
+
+
+#endif //DATASTRUCTUREANDALGORITHMINCPP_BINARYTREETEST_H

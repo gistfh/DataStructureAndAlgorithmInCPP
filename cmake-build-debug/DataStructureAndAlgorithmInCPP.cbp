@@ -84,25 +84,43 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/BruteForceSubstringSearch.cpp">
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/BiTree.cpp">
 			<Option target="DataStructureAndAlgorithmInCPP"/>
 		</Unit>
-		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/BruteForceSubstringSearch.h">
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/BiTree.h">
 			<Option target="DataStructureAndAlgorithmInCPP"/>
 		</Unit>
-		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/KnuthMorrisPratt.cpp">
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/BinaryTree.cpp">
 			<Option target="DataStructureAndAlgorithmInCPP"/>
 		</Unit>
-		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/KnuthMorrisPratt.h">
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/BinaryTree.h">
 			<Option target="DataStructureAndAlgorithmInCPP"/>
 		</Unit>
-		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/SubstringSearchTest.cpp">
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/ThreadedBinaryTree.cpp">
 			<Option target="DataStructureAndAlgorithmInCPP"/>
 		</Unit>
-		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/SubstringSearchTest.h">
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/Tree/ThreadedBinaryTree.h">
 			<Option target="DataStructureAndAlgorithmInCPP"/>
 		</Unit>
-		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/main.cpp">
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/src/main.cpp">
+			<Option target="DataStructureAndAlgorithmInCPP"/>
+		</Unit>
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/BinaryTreeTest.cpp">
+			<Option target="DataStructureAndAlgorithmInCPP"/>
+		</Unit>
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/BinaryTreeTest.h">
+			<Option target="DataStructureAndAlgorithmInCPP"/>
+		</Unit>
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/ClassTemplateTest.cpp">
+			<Option target="DataStructureAndAlgorithmInCPP"/>
+		</Unit>
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/ClassTemplateTest.h">
+			<Option target="DataStructureAndAlgorithmInCPP"/>
+		</Unit>
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/ThreadedBinaryTreeTest.cpp">
+			<Option target="DataStructureAndAlgorithmInCPP"/>
+		</Unit>
+		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/test/ThreadedBinaryTreeTest.h">
 			<Option target="DataStructureAndAlgorithmInCPP"/>
 		</Unit>
 		<Unit filename="D:/Repository/CPP/DataStructureAndAlgorithmInCPP/CMakeLists.txt">
